@@ -6,6 +6,8 @@ This repository contains a basic setup to support automatic TypeScript support f
 
 This repository is a companion to one of four talks shown during [Prismic][prismic]'s **Gatsby 4×4** presentation at [Jamstack Conf 2021][jamstackconf].
 
+[**Learn more on the Prismic blog**][prismic-blog]
+
 ![Gatsby 4×4 - Don't be afraid to type your Gatsby projects](./poster.png)
 
 ## How to try this yourself
@@ -57,6 +59,7 @@ limitations under the License.
 <!-- Links -->
 
 [prismic]: https://prismic.io
+[prismic-blog]: https://prismic.io/blog
 [gql-codegen]: https://www.graphql-code-generator.com/
 [jamstackconf]: https://jamstackconf.com/
 [vscode]: https://code.visualstudio.com/
