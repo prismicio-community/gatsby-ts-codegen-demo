@@ -5,7 +5,7 @@ module.exports = {
 		title: "gatsby-ts-codegen-demo",
 	},
 	plugins: [
-		// The following plugins allow us to query GitHub and our local Markdown files.
+		// The following plugins allow us to query our local Markdown files.
 		{
 			resolve: "gatsby-source-filesystem",
 			options: {
